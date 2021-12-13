@@ -1,6 +1,6 @@
 # Heroes-SpringWebflux-api
 
-[Heroes-SpringWebflux-api ](http://18.228.17.22:8080/webjars/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config#/personagem-controller/savePersonagem) on AWS Elastic Container Service 
+[Heroes-SpringWebflux-api ](http://18.228.17.22:8080/webjars/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config#/) on AWS Elastic Container Service 
 
 ## Essa API foi desenvolvido utilizando
 
